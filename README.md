@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/se_shilov">
+  <a href="https://t.me/shilov_se">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
   </a>
   
