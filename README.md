@@ -10,7 +10,7 @@ Web Developer from Russia 🕊️
 - 🌍 Team Player
 - 🏃 Constantly learning new things and staying connected with other developers. Feel free to reach out if you have interesting ideas or projects we can work on together 🚀
 - 🗣️ English B2 
-- 🕵️ **I am currently actively looking for a job, here is my [resume](https://disk.yandex.ru/i/5PBh6_H1-nGL-A)**
+- 🕵️ **I am currently actively looking for a job, here is my [CV](https://disk.yandex.ru/i/5PBh6_H1-nGL-A)**
 
 ---
 <h2 align="center">
