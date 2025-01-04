@@ -5,12 +5,11 @@ Hello, I'm Sergey 👋
 
 ## 🌄 About Me
 
-Web Developer from Russia 🕊️ 
+Frontend dev at Yandex Market, 24 y.o., Moscow
 
 - 🌍 Team Player
-- 🏃 Constantly learning new things and staying connected with other developers. Feel free to reach out if you have interesting ideas or projects we can work on together 🚀
+- 🏃 Constantly learning new things and staying connected with other developers. Feel free to reach out if you have interesting ideas or projects we can work on together 
 - 🗣️ English B2 
-- 🕵️ **I am currently actively looking for a job, here is my [CV](https://disk.yandex.ru/i/5PBh6_H1-nGL-A)**
 
 ---
 <h2 align="center">
@@ -25,10 +24,7 @@ Web Developer from Russia 🕊️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
-
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <h2 align="center">
 ✉️ Contacts 
@@ -42,9 +38,4 @@ Web Developer from Russia 🕊️
   <a href="https://t.me/shilov_se">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat" alt="Telegram">
   </a>
-  
-  <a href="vk.com/id77004604">
-    <img src="https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&style=flat" alt="VK">
-  </a>
-  
-
+</p>
